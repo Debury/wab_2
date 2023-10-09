@@ -1,2 +1,2 @@
-# wab_2
+# wab
 Webové aplikácie backend
